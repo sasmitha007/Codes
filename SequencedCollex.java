@@ -4,7 +4,6 @@ import java.util.SequencedCollection;
 public class SequencedCollex {
 
     public static void main(String[] args) {
-        // Create a LinkedList implementing SequencedCollection interface
         SequencedCollection<Integer> sc = new LinkedList<>();
         
         sc.addFirst(7);
