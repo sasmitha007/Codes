@@ -1,9 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package datastructure;
-
 public class ArrayCircularQueue {
     private int[] queue;   // Array to store queue elements
     private int front;     // Points to the front of the queue
