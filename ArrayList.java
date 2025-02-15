@@ -1,6 +1,3 @@
-//This file defines a custom implementation of a dynamic array.
-package datastructure;
-
 import java.util.NoSuchElementException;
 
 //constructor
